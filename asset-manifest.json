@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SistemaInventario/static/css/main.4866cf28.css",
+    "main.js": "/SistemaInventario/static/js/main.4ceedb84.js",
+    "static/js/239.966eabc9.chunk.js": "/SistemaInventario/static/js/239.966eabc9.chunk.js",
+    "static/js/977.7bc4ae08.chunk.js": "/SistemaInventario/static/js/977.7bc4ae08.chunk.js",
+    "static/js/455.ab1d43cf.chunk.js": "/SistemaInventario/static/js/455.ab1d43cf.chunk.js",
+    "index.html": "/SistemaInventario/index.html",
+    "main.4866cf28.css.map": "/SistemaInventario/static/css/main.4866cf28.css.map",
+    "main.4ceedb84.js.map": "/SistemaInventario/static/js/main.4ceedb84.js.map",
+    "239.966eabc9.chunk.js.map": "/SistemaInventario/static/js/239.966eabc9.chunk.js.map",
+    "977.7bc4ae08.chunk.js.map": "/SistemaInventario/static/js/977.7bc4ae08.chunk.js.map",
+    "455.ab1d43cf.chunk.js.map": "/SistemaInventario/static/js/455.ab1d43cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4866cf28.css",
+    "static/js/main.4ceedb84.js"
+  ]
+}
